@@ -14,6 +14,11 @@ public class HelloController {
     @Autowired
     HelloService helloService;
 
+    /**
+     * 接口：http://localhost:8080/hello
+     * 调用业务；接收前端的请求参数
+     * @return
+     */
     @GetMapping(value = "/hello")
     public String getHello(){
         return "hello world!!!";
