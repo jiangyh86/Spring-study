@@ -1,0 +1,25 @@
+#family:
+#  family-name: "happy family"
+#  father:
+#    name: tom
+#    age: 38
+#  mother:
+#    alias:
+#      - rose
+#      - alice
+#  child:
+#    name: jack
+#    age: 6
+#    friends:
+#      - hobby: basketball
+#        gender: male
+#      - hobby: sing
+#        gender: female
+#spring:
+#  jackson:
+#    date-format: yyyy-MM-dd HH:mm:ss
+#    time-zone:
+#      GMT+8
+
+server:
+  port: 7070

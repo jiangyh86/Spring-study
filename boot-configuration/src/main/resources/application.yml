@@ -1,0 +1,44 @@
+#family:
+#  family-name: "happy family"
+#  father:
+#    name: tom
+#    age: 38
+#  mother:
+#    alias:
+#      - rose
+#      - alice
+#  child:
+#    name: jack
+#    age: 6
+#    friends:
+#      - hobby: basketball
+#        gender: male
+#      - hobby: sing
+#        gender: female
+#spring:
+#  jackson:
+#    date-format: yyyy-MM-dd HH:mm:ss
+#    time-zone:
+#      GMT+8
+
+## k=v
+#name: jiangyiheng
+#
+##对象
+#student:
+#  name: jyh
+#  age: 3
+#
+##行内写法
+#  student: {name: jiangyh,age: 3}
+##数组
+# pets:
+#  - cat
+#  - dog
+#  - pig
+##数组行内式
+#pets: [cat,dog,pig]
+
+friend:
+  hobby: 踢球
+  gender: 男
